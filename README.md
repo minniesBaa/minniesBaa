@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @minniesBaa
-- 🌱 I’m currently learning about static web apps
+- 🌱 I’m currently learning about web apps
+- 😡 dealing with azure
 
 <!---
 minniesBaa/minniesBaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
