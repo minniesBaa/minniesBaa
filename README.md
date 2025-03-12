@@ -4,6 +4,7 @@ Hey! I'm Minnies. I code in a few languages:
  - Visual Basic
  - C++ (kinda)
  - Bash
+
 Projects:
  - servertester2/bash-servertester2
  - kpdb
