@@ -1,6 +1,6 @@
 Hey! I'm Minnies. I code in a few languages:
  - Python
- - [Scratch](scratch.mit.edu/users/minniesworld)
+ - [Scratch](https://scratch.mit.edu/users/minniesworld)
  - Visual Basic
  - C++ (kinda)
  - Bash
