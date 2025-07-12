@@ -12,6 +12,7 @@ Projects:
  - kpdb
 
 ![](https://raw.githubusercontent.com/minniesbaa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=minniesBaa)](https://git.io/streak-stats)
 
 <!---
 minniesBaa/minniesBaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
