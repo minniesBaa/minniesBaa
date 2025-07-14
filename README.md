@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=minniesbaa&theme=python-dark&border_radius=30)](https://git.io/streak-stats)
 Hey! I'm Minnies. I code in a few languages:
  - Python
  - [Scratch](https://scratch.mit.edu/users/minniesworld)
