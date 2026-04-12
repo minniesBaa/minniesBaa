@@ -9,7 +9,7 @@ Hey! I'm Minnies. I code in a few languages:
 
 Projects:
  - mouselink
- - servertester2/bash-servertester2
- - kpdb
+ - spoke
+ - kpmsg
 
 ![](https://raw.githubusercontent.com/minniesbaa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
