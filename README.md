@@ -11,5 +11,3 @@ Projects:
  - mouselink
  - spoke
  - kpmsg
-
-![](https://raw.githubusercontent.com/minniesbaa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
